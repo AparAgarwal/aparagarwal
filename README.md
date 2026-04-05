@@ -44,7 +44,7 @@ const apar_agarwal = {
         "Performance Optimization",
         "Clean Architecture"
     ],
-    portfolio: "https://aparagarwal.github.io",
+    portfolio: "https://aparagarwal.tech",
     mindset: "Build → Break → Learn → Improve",
     funFact: "First make it work, then make it right, then make it fast"
 };
@@ -109,18 +109,9 @@ const apar_agarwal = {
 - Documenting the backend development journey through a [hands-on blog series](https://github.com/AparAgarwal/backend-practice)
 - Strong believer in learning by building and contributing
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aparagarwal&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aparagarwal&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
 ## 📫 Connect With Me:
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-aparagarwal.github.io-blue?style=flat-square&logo=vercel)](https://aparagarwal.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aparagarwal.tech-blue?style=flat-square&logo=vercel)](https://aparagarwal.tech)
 [![Github](https://img.shields.io/badge/GitHub-@aparagarwal-orange?style=flat-square&logo=github)](https://github.com/AparAgarwal)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aparagarwal-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aparagarwal)
 
